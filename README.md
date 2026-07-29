@@ -65,3 +65,4 @@ Push this whole `titanic_api` folder to a GitHub repo.
 - Backend docs: `https://titanic-api.onrender.com/docs`
 - Frontend: your Static Site URL, e.g. `https://titanic-frontend.onrender.com`
 # titanic_1912
+# titanic_1912
