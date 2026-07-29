@@ -1,4 +1,4 @@
-const API_URL = "https://titanic-1912-nwdz.onrender.com";
+const API_URL = "https://titanic-1912-nwdz.onrender.com/";
 
 function predict() {
     const data = {
